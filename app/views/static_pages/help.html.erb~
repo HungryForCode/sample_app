@@ -1,8 +1,6 @@
-<html>
-	<head>
-		<title>Ruby on Rails Tutorial Sample App | Help</title>
-	</head>
-	<body>
+<% provide(:title, 'Help') %>
+<!DOCTYPE html>
+
 		<h1>Help</h1>
 		<p>
  			Get help on the Ruby on Rails Tutorial at the
